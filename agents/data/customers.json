@@ -1,0 +1,169 @@
+[
+  {
+    "customer_id": "C001",
+    "name": "Northwind Retail",
+    "industry": "Retail",
+    "region": "US",
+    "contacts": 14,
+    "products": [
+      {
+        "name": "Microsoft 365 E3",
+        "licenses_purchased": 1200,
+        "licenses_used": 930,
+        "annual_spend_usd": 216000
+      },
+      {
+        "name": "Azure Compute",
+        "annual_spend_usd": 410000,
+        "idle_resource_pct": 16,
+        "reserved_coverage_pct": 28
+      },
+      {
+        "name": "Copilot",
+        "licenses_purchased": 120,
+        "licenses_used": 92,
+        "annual_spend_usd": 64800,
+        "token_growth_pct": 21
+      }
+    ],
+    "billing": {
+      "annual_cloud_spend_usd": 410000,
+      "annual_ai_token_spend_usd": 96000,
+      "cost_anomaly_score": 71
+    },
+    "usage": {
+      "active_users": 1022,
+      "feature_adoption_pct": 74,
+      "weekly_active_growth_pct": 11
+    },
+    "support": {
+      "open_tickets": 7,
+      "p1_incidents": 1,
+      "avg_resolution_hours": 9.2,
+      "nps": 41
+    },
+    "contracts": [
+      {
+        "contract_id": "CT-1008",
+        "renewal_date": "2026-11-15",
+        "annual_value_usd": 620000
+      }
+    ],
+    "engagement": {
+      "sales_meetings_last_quarter": 8,
+      "emails_opened": 37,
+      "campaigns_engaged": 5
+    }
+  },
+  {
+    "customer_id": "C002",
+    "name": "Alpine Manufacturing",
+    "industry": "Manufacturing",
+    "region": "EMEA",
+    "contacts": 10,
+    "products": [
+      {
+        "name": "Microsoft 365 E3",
+        "licenses_purchased": 800,
+        "licenses_used": 781,
+        "annual_spend_usd": 144000
+      },
+      {
+        "name": "Dynamics 365",
+        "licenses_purchased": 210,
+        "licenses_used": 132,
+        "annual_spend_usd": 186000
+      },
+      {
+        "name": "Azure Storage",
+        "annual_spend_usd": 210000,
+        "idle_resource_pct": 11,
+        "reserved_coverage_pct": 19
+      }
+    ],
+    "billing": {
+      "annual_cloud_spend_usd": 210000,
+      "annual_ai_token_spend_usd": 24000,
+      "cost_anomaly_score": 58
+    },
+    "usage": {
+      "active_users": 790,
+      "feature_adoption_pct": 66,
+      "weekly_active_growth_pct": 6
+    },
+    "support": {
+      "open_tickets": 5,
+      "p1_incidents": 0,
+      "avg_resolution_hours": 7.8,
+      "nps": 34
+    },
+    "contracts": [
+      {
+        "contract_id": "CT-2201",
+        "renewal_date": "2026-09-29",
+        "annual_value_usd": 280000
+      }
+    ],
+    "engagement": {
+      "sales_meetings_last_quarter": 5,
+      "emails_opened": 22,
+      "campaigns_engaged": 3
+    }
+  },
+  {
+    "customer_id": "C003",
+    "name": "Contoso Health",
+    "industry": "Healthcare",
+    "region": "APAC",
+    "contacts": 18,
+    "products": [
+      {
+        "name": "Microsoft 365 E5",
+        "licenses_purchased": 1400,
+        "licenses_used": 1340,
+        "annual_spend_usd": 420000
+      },
+      {
+        "name": "Azure AI Services",
+        "annual_spend_usd": 520000,
+        "idle_resource_pct": 8,
+        "reserved_coverage_pct": 31,
+        "token_growth_pct": 26
+      },
+      {
+        "name": "Copilot",
+        "licenses_purchased": 240,
+        "licenses_used": 210,
+        "annual_spend_usd": 129600
+      }
+    ],
+    "billing": {
+      "annual_cloud_spend_usd": 520000,
+      "annual_ai_token_spend_usd": 180000,
+      "cost_anomaly_score": 44
+    },
+    "usage": {
+      "active_users": 1490,
+      "feature_adoption_pct": 84,
+      "weekly_active_growth_pct": 15
+    },
+    "support": {
+      "open_tickets": 4,
+      "p1_incidents": 0,
+      "avg_resolution_hours": 5.1,
+      "nps": 53
+    },
+    "contracts": [
+      {
+        "contract_id": "CT-3301",
+        "renewal_date": "2026-07-18",
+        "annual_value_usd": 910000
+      }
+    ],
+    "engagement": {
+      "sales_meetings_last_quarter": 11,
+      "emails_opened": 41,
+      "campaigns_engaged": 6
+    }
+  }
+]

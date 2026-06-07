@@ -1,0 +1,118 @@
+[
+  {
+    "customer_id": "C001",
+    "customer_name": "Northwind Retail",
+    "scores": {
+      "growth_score": 100,
+      "savings_score": 84,
+      "risk_score": 55,
+      "health_score": 69
+    },
+    "recommendations": [
+      {
+        "type": "Cost Optimization",
+        "priority": "High",
+        "owner": "FinOps Lead",
+        "title": "Right-size cloud workloads and improve reservation coverage",
+        "rationale": "Idle resources are 16% and reservation coverage is 28%, indicating avoidable spend.",
+        "impact": "Estimated savings potential: $208,000"
+      },
+      {
+        "type": "Revenue Growth",
+        "priority": "High",
+        "owner": "Account Executive",
+        "title": "Target E3 to E5 upgrade motion",
+        "rationale": "Installed base on Microsoft 365 E3 suggests whitespace for security and compliance monetization.",
+        "impact": "Estimated ARR uplift: $420,000"
+      },
+      {
+        "type": "Adoption Expansion",
+        "priority": "Medium",
+        "owner": "Customer Success Manager",
+        "title": "Drive persona-based product adoption",
+        "rationale": "Feature adoption is 74%, suggesting activation and enablement opportunity.",
+        "impact": "Protect and expand spend by improving utilization for 298 currently underused licenses."
+      },
+      {
+        "type": "Retention & Risk",
+        "priority": "Medium",
+        "owner": "Renewal Desk",
+        "title": "Proactively stabilize support and renewal risk",
+        "rationale": "Open tickets: 7, P1 incidents: 1, NPS: 41.",
+        "impact": "Defend renewal value of $620,000."
+      },
+      {
+        "type": "AI Monetization",
+        "priority": "Medium",
+        "owner": "AI Solutions Lead",
+        "title": "Scale AI workloads with governance controls",
+        "rationale": "AI token growth is 21%, indicating readiness for expanded governed AI usage.",
+        "impact": "Potential new AI revenue: $105,000"
+      }
+    ]
+  },
+  {
+    "customer_id": "C002",
+    "customer_name": "Alpine Manufacturing",
+    "scores": {
+      "growth_score": 100,
+      "savings_score": 71,
+      "risk_score": 36,
+      "health_score": 86
+    },
+    "recommendations": [
+      {
+        "type": "Cost Optimization",
+        "priority": "High",
+        "owner": "FinOps Lead",
+        "title": "Right-size cloud workloads and improve reservation coverage",
+        "rationale": "Idle resources are 11% and reservation coverage is 19%, indicating avoidable spend.",
+        "impact": "Estimated savings potential: $220,000"
+      },
+      {
+        "type": "Revenue Growth",
+        "priority": "High",
+        "owner": "Account Executive",
+        "title": "Target E3 to E5 upgrade motion",
+        "rationale": "Installed base on Microsoft 365 E3 suggests whitespace for security and compliance monetization.",
+        "impact": "Estimated ARR uplift: $420,000"
+      },
+      {
+        "type": "Adoption Expansion",
+        "priority": "Medium",
+        "owner": "Customer Success Manager",
+        "title": "Drive persona-based product adoption",
+        "rationale": "Feature adoption is 66%, suggesting activation and enablement opportunity.",
+        "impact": "Protect and expand spend by improving utilization for 97 currently underused licenses."
+      },
+      {
+        "type": "Retention & Risk",
+        "priority": "Medium",
+        "owner": "Renewal Desk",
+        "title": "Proactively stabilize support and renewal risk",
+        "rationale": "Open tickets: 5, P1 incidents: 0, NPS: 34.",
+        "impact": "Defend renewal value of $280,000."
+      }
+    ]
+  },
+  {
+    "customer_id": "C003",
+    "customer_name": "Contoso Health",
+    "scores": {
+      "growth_score": 100,
+      "savings_score": 47,
+      "risk_score": 16,
+      "health_score": 100
+    },
+    "recommendations": [
+      {
+        "type": "AI Monetization",
+        "priority": "Medium",
+        "owner": "AI Solutions Lead",
+        "title": "Scale AI workloads with governance controls",
+        "rationale": "AI token growth is 26%, indicating readiness for expanded governed AI usage.",
+        "impact": "Potential new AI revenue: $130,000"
+      }
+    ]
+  }
+]
